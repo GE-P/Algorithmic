@@ -1,0 +1,20 @@
+{
+    "percentage_threshold": 30,
+    "tweets": [
+        {
+            "user_id": 1234567,
+            "timestamp": 1619695242,
+            "hashtags": ["#robin", "#hashtag"]
+        },
+        {
+            "user_id": 7654321,
+            "timestamp": 1619685367,
+            "hashtags": ["#robin", "#hashtag", "#testme"]
+        },
+        {
+            "user_id": 7654321,
+            "timestamp": 1619685367,
+            "hashtags": ["#hashtag"]
+        }
+    ]
+}
